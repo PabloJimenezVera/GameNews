@@ -1,0 +1,2 @@
+# GameNews
+Todas las GameNews
